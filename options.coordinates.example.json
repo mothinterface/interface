@@ -1,0 +1,5 @@
+[
+  {"label": "Option 1", "action": "click_at", "x": 300, "y": 400},
+  {"label": "Option 2", "action": "click_at", "x": 600, "y": 400},
+  {"label": "Option 3", "action": "click_at", "x": 900, "y": 400}
+]
